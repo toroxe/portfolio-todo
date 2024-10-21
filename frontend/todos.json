@@ -1,0 +1,17 @@
+[
+    {
+        "id": 2,
+        "task": "Handla mat",
+        "completed": true
+    },
+    {
+        "id": 3,
+        "task": "Skriva rapport",
+        "completed": false
+    },
+    {
+        "id": 1729502901086,
+        "task": "En helt ny uppgift",
+        "completed": false
+    }
+]
